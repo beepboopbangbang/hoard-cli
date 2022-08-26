@@ -3,7 +3,7 @@
 [![Crates.io](https://img.shields.io/crates/v/hoard-cli.svg)](https://crates.io/crates/hoard-cli)
 [![Docs.rs](https://docs.rs/hoard-cli/badge.svg)](https://docs.rs/hoard-cli)
 [![CI](https://github.com/beepboopbangbang/hoard-cli/workflows/CI/badge.svg)](https://github.com/beepboopbangbang/hoard-cli/actions)
-[![Coverage Status](https://coveralls.io/repos/github/beepboopbangbang/hoard-cli/badge.svg?branch=main)](https://coveralls.io/github/beepboopbangbang/hoard-cli?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/beepboopbangbang/hoard-cli/badge.svg?branch=master)](https://coveralls.io/github/beepboopbangbang/hoard-cli?branch=master)
 
 ## Installation
 

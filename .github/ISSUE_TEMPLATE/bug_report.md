@@ -22,7 +22,7 @@ Steps to reproduce the behavior:
 3. ...
 4. ...
 
-<!-- Make sure you are able to reproduce the bug in the main branch, too. -->
+<!-- Make sure you are able to reproduce the bug in the master branch, too. -->
 
 ## Expected behavior
 
